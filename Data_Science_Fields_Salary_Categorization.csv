@@ -1,4 +1,4 @@
-Working_Year,Designation,Experience,Employment_Status,Salary_In_Rupees,Employee_Location,Company_Location,Company_Size,Remote_Working_Ratio
+WorkingYear,Designation,Experience,EmploymentStatus,Salary,Location,CompanyLocation,CompanySize,RemoteWorkingRatio
 2020,Data Scientist,MI,FT,"63,52,272.00",DE,DE,L,0
 2020,Machine Learning Scientist,SE,FT,"2,06,88,070.00",JP,JP,S,0
 2020,Big Data Engineer,SE,FT,"86,74,985.00",GB,GB,M,50
